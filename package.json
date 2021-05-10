@@ -1,0 +1,16 @@
+{
+  "name": "com.kelvinvanhoorn.line-intersections",
+  "version": "1.0.0",
+  "displayName": "Line intersections",
+  "description": "An HLSL include file for finding the intersection between a line and the following shapes: plane, cylinder, ellipsoid, hyperboloid, paraboloid, ellipse, capped cylinder, capped ellipsoid, capped half hyperboloid, rectangle and a box.",
+  "unity": "2020.3",
+  "keywords": [
+    "intersection",
+    "line"
+  ],
+  "author": {
+    "name": "Kelvin van Hoorn",
+    "url": "https://www.kelvinvanhoorn.com"
+  },
+  "type": "library"
+}
