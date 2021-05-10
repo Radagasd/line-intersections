@@ -23,6 +23,6 @@ Material:
     - _DistanceScale: 20
     - _Shape: 10
     m_Colors:
-    - _CapHeights: {r: -15, g: -3, b: 0, a: 0}
-    - _ShapeParams: {r: 10, g: 5, b: 20, a: 0}
+    - _CapHeights: {r: -1, g: 0, b: 0, a: 0}
+    - _ShapeParams: {r: 10, g: 5, b: 20, a: 1}
   m_BuildTextureStacks: []
