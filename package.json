@@ -12,5 +12,12 @@
     "name": "Kelvin van Hoorn",
     "url": "https://www.kelvinvanhoorn.com"
   },
-  "type": "library"
+  "type": "library",
+  "samples": [
+	  {
+		  "displayName": "Visualise sample",
+		  "description": "A sample scene and shader to visualise the intersections",
+		  "path": "Samples~"
+	  }
+  ]
 }
