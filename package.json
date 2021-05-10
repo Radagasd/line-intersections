@@ -17,7 +17,7 @@
 	  {
 		  "displayName": "Visualise sample",
 		  "description": "A sample scene and shader to visualise the intersections",
-		  "path": "Samples/VisualiseSample"
+		  "path": "Samples~/VisualiseSample"
 	  }
   ]
 }
