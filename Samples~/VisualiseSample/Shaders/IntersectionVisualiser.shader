@@ -21,7 +21,7 @@ Shader "KelvinvanHoorn/IntersectionVisualiser"
             #pragma multi_compile _SHAPE_PLANE _SHAPE_CYLINDER _SHAPE_ELLIPSOID _SHAPE_HYPERBOLOID _SHAPE_PARABOLOID _SHAPE_ELLIPSE _SHAPE_CAPPEDCYLINDER _SHAPE_CAPPEDELLIPSOID _SHAPE_CAPPEDHALFHYPERBOLOID _SHAPE_RECTANGLE _SHAPE_BOX
  
             #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"    
-            #include "Packages/com.kelvinvanhoorn.line-intersections/LineIntersections.hlsl"   
+            #include "Packages/com.kelvinvanhoorn.line-intersections/ShaderLibrary/LineIntersections.hlsl"   
  
             struct Attributes
             {
